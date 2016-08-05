@@ -1,0 +1,8 @@
+E:\POC\CAMP Code Challenge\CAMP-Code-Challenge\1Aug2016\Aug1st2016Test\bin\Debug\Aug1st2016Test.dll
+E:\POC\CAMP Code Challenge\CAMP-Code-Challenge\1Aug2016\Aug1st2016Test\bin\Debug\Aug1st2016Test.pdb
+E:\POC\CAMP Code Challenge\CAMP-Code-Challenge\1Aug2016\Aug1st2016Test\bin\Debug\1Aug2016.exe
+E:\POC\CAMP Code Challenge\CAMP-Code-Challenge\1Aug2016\Aug1st2016Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\POC\CAMP Code Challenge\CAMP-Code-Challenge\1Aug2016\Aug1st2016Test\bin\Debug\1Aug2016.pdb
+E:\POC\CAMP Code Challenge\CAMP-Code-Challenge\1Aug2016\Aug1st2016Test\obj\Debug\Aug1st2016Test.csprojResolveAssemblyReference.cache
+E:\POC\CAMP Code Challenge\CAMP-Code-Challenge\1Aug2016\Aug1st2016Test\obj\Debug\Aug1st2016Test.dll
+E:\POC\CAMP Code Challenge\CAMP-Code-Challenge\1Aug2016\Aug1st2016Test\obj\Debug\Aug1st2016Test.pdb
